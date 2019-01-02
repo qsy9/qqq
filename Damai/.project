@@ -33,5 +33,31 @@
 				</arguments>
 			</matcher>
 		</filter>
+		<filter>
+<<<<<<< Updated upstream
+			<id>1546411822586</id>
+=======
+			<id>1546411430382</id>
+>>>>>>> Stashed changes
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-node_modules</arguments>
+			</matcher>
+		</filter>
+		<filter>
+<<<<<<< Updated upstream
+			<id>1546411822683</id>
+=======
+			<id>1546411430389</id>
+>>>>>>> Stashed changes
+			<name></name>
+			<type>26</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-node_modules</arguments>
+			</matcher>
+		</filter>
 	</filteredResources>
 </projectDescription>
